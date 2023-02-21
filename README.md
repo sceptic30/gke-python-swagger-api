@@ -35,5 +35,3 @@ To deploy the application to GKE you will only have to run the command below:
 ```
 sudo chmod a+x install.sh && source install.sh
 ```
-## Demo
-You can test the API deployed on GKE at  [https://kubedemo.xyz/ui](https://kubedemo.xyz/ui/).
